@@ -1,0 +1,43 @@
+R version 4.4.0 (2024-04-24 ucrt)
+Platform: x86_64-w64-mingw32/x64
+Running under: Windows 11 x64 (build 22631)
+
+Matrix products: default
+
+
+locale:
+[1] LC_COLLATE=English_United States.utf8  LC_CTYPE=English_United States.utf8    LC_MONETARY=English_United States.utf8
+[4] LC_NUMERIC=C                           LC_TIME=English_United States.utf8    
+
+time zone: Europe/Berlin
+tzcode source: internal
+
+attached base packages:
+[1] parallel  stats     graphics  grDevices datasets  utils     methods   base     
+
+other attached packages:
+ [1] quantreg_5.98      SparseM_1.84-2     ggeffects_1.7.0    emmeans_1.10.3     yardstick_1.3.1    workflowsets_1.1.0
+ [7] workflows_1.1.4    tune_1.2.1         rsample_1.2.1      recipes_1.1.0      purrr_1.0.2        parsnip_1.2.1     
+[13] modeldata_1.4.0    infer_1.0.7        dials_1.3.0        scales_1.3.0       broom_1.0.6        tidymodels_1.2.0  
+[19] ragg_1.3.2         ggh4x_0.2.8        gghalves_0.1.4     ggplot2_3.5.1      ggtext_0.1.2       patchwork_1.2.0   
+[25] forcats_1.0.0      iterators_1.0.14   foreach_1.5.2      dplyr_1.1.4        tidyr_1.3.1        tibble_3.2.1      
+[31] here_1.0.1         stringr_1.5.1      beepr_2.0          tictoc_1.2.1      
+
+loaded via a namespace (and not attached):
+  [1] rstudioapi_0.16.0    audio_0.1-11         datawizard_0.12.2    magrittr_2.0.3       estimability_1.5.1   farver_2.1.2        
+  [7] rmarkdown_2.27       vctrs_0.6.5          htmltools_0.5.8.1    haven_2.5.4          distributional_0.4.0 cellranger_1.1.0    
+ [13] parallelly_1.38.0    KernSmooth_2.23-22   plyr_1.8.9           lubridate_1.9.3      commonmark_1.9.1     lifecycle_1.0.4     
+ [19] ggside_0.3.1         pkgconfig_2.0.3      Matrix_1.7-0         R6_2.5.1             fastmap_1.2.0        future_1.34.0       
+ [25] digest_0.6.35        colorspace_2.1-0     GCalignR_1.0.7       furrr_0.3.1          rprojroot_2.0.4      textshaping_0.4.0   
+ [31] labeling_0.4.3       fansi_1.0.6          timechange_0.3.0     compiler_4.4.0       bit64_4.0.5          withr_3.0.0         
+ [37] backports_1.5.0      viridis_0.6.5        gplots_3.1.3.1       MASS_7.3-60.2        lava_1.8.0           gtools_3.9.5        
+ [43] caTools_1.18.2       tools_4.4.0          zip_2.3.1            future.apply_1.11.2  nnet_7.3-19          glue_1.7.0          
+ [49] gridtext_0.1.5       grid_4.4.0           reshape2_1.4.4       generics_0.1.3       gtable_0.3.5         tzdb_0.4.0          
+ [55] class_7.3-22         data.table_1.15.4    hms_1.1.3            xml2_1.3.6           utf8_1.2.4           pillar_1.9.0        
+ [61] markdown_1.13        vroom_1.6.5          lhs_1.2.0            splines_4.4.0        lattice_0.22-6       renv_1.0.7          
+ [67] survival_3.5-8       bit_4.0.5            tidyselect_1.2.1     pbapply_1.7-2        knitr_1.47           gridExtra_2.3       
+ [73] xfun_0.44            hardhat_1.4.0        timeDate_4032.109    matrixStats_1.3.0    stringi_1.8.4        DiceDesign_1.10     
+ [79] yaml_2.3.8           pacman_0.5.1         evaluate_0.23        codetools_0.2-20     cli_3.6.2            rpart_4.1.23        
+ [85] xtable_1.8-4         systemfonts_1.1.0    munsell_0.5.1        Rcpp_1.0.12          globals_0.16.3       MatrixModels_0.5-3  
+ [91] gower_1.0.1          readr_2.1.5          bitops_1.0-8         GPfit_1.0-8          listenv_0.9.1        mvtnorm_1.2-5       
+ [97] viridisLite_0.4.2    ipred_0.9-15         prodlim_2024.06.25   insight_0.20.2       crayon_1.5.2         rlang_1.1.3         
