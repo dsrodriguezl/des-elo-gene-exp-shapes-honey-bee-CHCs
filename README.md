@@ -1,11 +1,9 @@
-Expression of elongase- and desaturase-encoding genes shapes the
-cuticular hydrocarbon profiles of honey bees
-================
+# Expression of Elongase- and Desaturase-Encoding Genes Shapes the Cuticular Hydrocarbon Profiles of Honey Bees
 
-This repository contains all the data and code needed to reproduce the
-analyses of the study titled “Expression of elongase- and
-desaturase-encoding genes shapes the cuticular hydrocarbon profiles of
-honey bees”.
+This repository contains all the data and code needed to reproduce the analyses of Rodríguez-León, D.S., Schmitt, T., Pinto, M.A., Thamm, M. and Scheiner, R. (2025), Expression of Elongase- and Desaturase-Encoding Genes Shapes the Cuticular Hydrocarbon Profiles of Honey Bees. Mol Ecol e17716. [https://doi.org/10.1111/mec.17716](https://doi.org/10.1111/mec.17716).
+
+The repository has been published under a CC BY 4.0 license in [Figshare](https://figshare.com) ([https://doi.org/10.6084/m9.figshare.26831491.v1](https://doi.org/10.6084/m9.figshare.26831491.v1)).
+Cite it as: Rodríguez-León, DS; Schmitt, Thomas; Pinto, Alice; Thamm, Markus; Scheiner, Ricarda (2025). Expression of elongase- and desaturase-encoding genes shapes the cuticular hydrocarbon profiles of honey bees. figshare. Software. https://doi.org/10.6084/m9.figshare.26831491.v1
 
 The repository corresponds to an R project repository that can be
 directly open in RStudio via the
